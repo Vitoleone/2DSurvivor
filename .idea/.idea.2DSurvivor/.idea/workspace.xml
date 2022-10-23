@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11219c6a-db55-413a-9840-b0d756ac347b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/resources/BoltPrefabDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonBolt/resources/BoltPrefabDatabase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/buildings/Building_06-Faceted.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/buildings/Building_06-Faceted.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.001.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.001.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.002.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.002.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/sgtBolt4Merged.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/art/models/sgtBolt/source/Materials/sgtBolt4Merged.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/Elevator.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/Elevator.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/SceneCube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/SceneCube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/player/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/singletons/resources/PlayerCamera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/singletons/resources/PlayerCamera.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/weapons/Rifle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/prefabs/weapons/Rifle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/AdvancedTutorial/scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/BoltRealtimeStats/Prefabs/BoltStats.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/BoltRealtimeStats/Prefabs/BoltStats.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/BoltRealtimeStats/Prefabs/FrameStats.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/BoltRealtimeStats/Prefabs/FrameStats.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ClickToMove/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ClickToMove/Materials/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ClickToMove/Materials/Target.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ClickToMove/Materials/Target.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ClickToMove/Prefabs/EthanClickToMove.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ClickToMove/Prefabs/EthanClickToMove.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ClickToMove/Scenes/ClickToMoveGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ClickToMove/Scenes/ClickToMoveGameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Material_box.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Material_box.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Material_ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Material_ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Slippery.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Materials/Slippery.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/Cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/Cube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/InteractiveObject.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/InteractiveObject.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/InteractiveSpawner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/InteractiveSpawner.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/Robot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Prefabs/Robot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Robot/Done/DoneAnimators/DoneEnemyAnimator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Robot/Done/DoneAnimators/DoneEnemyAnimator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Tutorial1_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Tutorial1_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/GettingStarted/Tutorial1_Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/GettingStarted/Tutorial1_Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/HeadlessServer/Scenes/BoltHeadlessServer.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/HeadlessServer/Scenes/BoltHeadlessServer.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/BomberPlayer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/BomberPlayer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/LobbyManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/LobbyManager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/PlayerInfo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/LobbyManager/Prefabs/PlayerInfo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/LobbyManager/Scenes/PhotonLobby.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/LobbyManager/Scenes/PhotonLobby.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_White.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Material/Ground_Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Prefabs/MultiSceneItem.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Prefabs/MultiSceneItem.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Prefabs/MultiScenePlayer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Prefabs/MultiScenePlayer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/InGame_Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/MultipleScenes/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Materials/Brush.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Materials/Brush.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Materials/CanvasMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Materials/CanvasMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Prefabs/CharacterPainter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Prefabs/CharacterPainter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Scenes/NetworkedPaint_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Scenes/NetworkedPaint_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Scenes/NetworkedPaint_Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/NetworkedPaint/Scenes/NetworkedPaint_Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/PhotonCloud/demo_simple/Scenes/PhotonTutorial.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/PhotonCloud/demo_simple/Scenes/PhotonTutorial.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/PlayFab/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/PlayFab/Materials/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabClient.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabClient.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabHeadlessServer.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/PlayFab/Scenes/PlayFabHeadlessServer.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/Sample_1x1/Scenes/Sample1x1_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/Sample_1x1/Scenes/Sample1x1_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/Sample_1x1/Scenes/Sample1x1_Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/Sample_1x1/Scenes/Sample1x1_Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SetupEncryptionSystem/Prefabs/SetupEncryption.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SetupEncryptionSystem/Prefabs/SetupEncryption.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Body.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Visor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Visor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Weapon_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Weapon_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Weapon_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Materials/SimpleMoveAndShoot_Weapon_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/DemageHitFX.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/DemageHitFX.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/block.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/block.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockCliff.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockCliff.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockCornerSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockCornerSmall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockHalf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockHalf.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockLarge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockLarge.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockMoving.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockMoving.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockQuarter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockQuarter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockSlope.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockSlope.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockSlopeHalf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/blockSlopeHalf.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridge.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridgeHalf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridgeHalf.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridgeRamp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/bridgeRamp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/cube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/door.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/door.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fence.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fence.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceBroken.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceBroken.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceCorner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceCorner.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceCornerCurved.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceCornerCurved.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowBroken.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowBroken.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowCorner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowCorner.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowCornerCurved.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/fenceLowCornerCurved.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/flag.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/flag.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/flowers.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/flowers.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/heart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/heart.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/hedge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/hedge.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/hedgeCorner.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/hedgeCorner.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/jewel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/jewel.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/mushrooms.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/mushrooms.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/platform.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/platform.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/rocks.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/rocks.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/sign.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/sign.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/tree.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/Environment/tree.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/HealHitFX.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/HealHitFX.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/MoveAndShootPlayer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Prefabs/MoveAndShootPlayer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Scenes/SimpleMoveAndShoot_Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Scenes/SimpleMoveAndShoot_Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Scenes/SimpleMoveAndShoot_Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/SimpleMoveAndShoot/Scenes/SimpleMoveAndShoot_Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/StreamReliable/Scenes/StreamReliableData.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/StreamReliable/Scenes/StreamReliableData.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/StreamingData/StreamDataGameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/StreamingData/StreamDataGameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Prefabs/EthanClientAuth.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Prefabs/EthanClientAuth.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Prefabs/EthanServerAuth.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Prefabs/EthanServerAuth.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Scenes/clientAuthTPC.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Scenes/clientAuthTPC.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Scenes/serverAuthTPC.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/Scenes/serverAuthTPC.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/ZeroFricition.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/samples/ThirdPersonCharacter/ZeroFricition.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Callbacks/ServerCallbacks.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GXviayzmrOxlipRASSzZUcZq5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\2021.3.11f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\2DSurvivor -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\2DSurvivor" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11219c6a-db55-413a-9840-b0d756ac347b" name="Changes" comment="" />
+      <created>1666547874022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666547874022</updated>
+      <workItem from="1666547932995" duration="1117000" />
+      <workItem from="1666549189857" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
