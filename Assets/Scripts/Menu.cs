@@ -7,33 +7,70 @@ using UnityEngine;
 using System;
 using UdpKit.Platform.Photon;
 using UdpKit;
+using UnityEngine.UI;
+using System.Collections.Generic;
+using Random = System.Random;
 
 public class Menu : GlobalEventListener
 {
+    public Button joinGameButtonInstance;
+    public GameObject serverListPanel;
+    private List<Button> joinServerButtons = new List<Button>();
+    public float buttonSpacing = 250f;
     public void StartServer()
     {
         BoltLauncher.StartServer();
     }
 
-    public override void BoltStartDone()//Server start olduðunda çalýþýr
+    public override void BoltStartDone()//Server start olduï¿½unda ï¿½alï¿½ï¿½ï¿½r
     {
-        BoltMatchmaking.CreateSession(sessionID: "LevelScene", sceneToLoad: "LevelScene");
+        int randomInt = UnityEngine.Random.Range(0, 9999);
+        BoltMatchmaking.CreateSession(sessionID: "LevelScene" + randomInt.ToString(), sceneToLoad: "LevelScene");
+        
     }
 
     public void StartClient()
     {
         BoltLauncher.StartClient();
     }
-
+    
+    //Bir oda oluÅŸturulduÄŸunda veya silindiÄŸinde Ã§alÄ±ÅŸÄ±r.
     public override void SessionListUpdated(Map<Guid, UdpSession> sessionList)
     {
+        int randomInt = 0;
+        ClearSessions();
         foreach (var session in sessionList)
         {
+            randomInt = UnityEngine.Random.Range(0, 9999);
             UdpSession photonSession = session.Value as UdpSession;
-            if (photonSession.Source == UdpSessionSource.Photon)
-            {
-                BoltMatchmaking.JoinSession(photonSession);
-            }
+            Button joingameButtonClone = Instantiate(joinGameButtonInstance);
+            joingameButtonClone.transform.parent = serverListPanel.transform;
+            joingameButtonClone.transform.localPosition = new Vector3(0,buttonSpacing * joinServerButtons.Count,0);
+            joingameButtonClone.gameObject.SetActive(true);
+            
+            joingameButtonClone.onClick.AddListener(() => JoinGame(photonSession));
+            joingameButtonClone.transform.GetChild(0).gameObject.GetComponent<Text>().text =
+                "LevelScene" + randomInt.ToString();
+            joinServerButtons.Add(joingameButtonClone);
+            
+            
+
         }
+
+      
+    }
+    private void JoinGame(UdpSession photonSession)
+    {
+        BoltMatchmaking.JoinSession(photonSession);
+    }
+
+    private void ClearSessions()
+    {
+        foreach (Button button in joinServerButtons )
+        {
+            joinServerButtons.Remove(button);
+            Destroy((button.gameObject));
+        }
+        joinServerButtons.Clear();
     }
 }
